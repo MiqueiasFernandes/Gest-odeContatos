@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Gestão de Contatos</string>
+    <string name="lblInicial">Gestão de Contatos 1.0</string>
+    <string name="nome_hint">Nome</string>
+    <string name="telefone_hint">Telefone</string>
+    <string-array name="telefone_types">
+    <item>Casa</item>
+    <item>Celular</item>
+    <item>Fax</item>
+    <item>Trabalho</item>
+    </string-array>
+    <string name="sexo">SEXO</string>
+    <string name="masculino">MASCULINO</string>
+    <string name="feminino">FEMININO</string>
+    <string name="email">EMAIL</string>
+    <string name="email_hint">Email</string>
+    <string-array name="email_types">
+        <item>Pessoal</item>
+        <item>Negócios</item>
+        <item>Acadêmico</item>
+        <item>Trabalho</item>
+        <item>Outro</item>
+    </string-array>
+    <string name="afinidade">AFINIDADE</string>
+    <string name="salvar">SALVAR</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="action_search">Pesquisar</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_salvar">Salvar</string>
+    <string name="action_cancelar">Cancelar</string>
+</resources>
